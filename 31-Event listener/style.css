@@ -1,0 +1,11 @@
+.heading{
+    font-size: 3rem;
+    color: tomato;
+    font-style: italic;
+}
+.para-style{
+    font-size: 4rem;
+    color: rgb(94, 14, 0);
+    font-style: italic;
+    display: inline-block;
+}

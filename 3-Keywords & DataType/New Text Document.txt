@@ -1,0 +1,14 @@
+Key words are tokens that have special meaning in javascript.
+
+->break, case, catch, continue, debugger, default, delete, do, else, finally,
+for, function, if, in, instanceof, new, return, switch, this, throw, try,
+typeof, var, void, while, with.
+
+
+
+
+Data types in JS
+-> String
+->Number
+->Boolean
+->Object

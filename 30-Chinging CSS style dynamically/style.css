@@ -1,0 +1,8 @@
+.para-style{
+    color: rgb(33, 4, 107);
+    font-size: 3rem;
+    font-weight: 700;
+    font-style: italic;
+    background-color: aquamarine;
+    display: inline-block;
+}
