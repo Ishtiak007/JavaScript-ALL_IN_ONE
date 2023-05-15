@@ -1,0 +1,3 @@
+-----audio / video events----
+
+canplay,  play,  playing,  pause,  progress,  ended,  volumechange,  waiting

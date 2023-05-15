@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Onsubmit event</title>
+
+    <style>
+        div{
+            margin-bottom: 3rem;
+        }
+        input{
+            width: 30%;
+            height: 2rem;
+            background-color: rgb(237, 235, 234);
+        }
+        label{
+            font-size: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <form action="">
+        <div>
+            <label for="name">Name :
+                <input type="name" id="name" name="name" required autofocus>
+            </label>
+        </div>
+        <div>
+            <label for="email">Email :
+                <input type="email" id="email" name="email" required size="30">
+            </label>
+        </div>
+        <div>
+            <label for="password">Password :
+                <input type="password" id="password" name="password" required minlength="4" maxlength="8">
+            </label>
+        </div>
+        <div>
+            <input type="submit" value="sign-up">
+        </div>
+    </form>
+    
+
+    <script src="onsubmit.js"></script>
+</body>
+</html>
