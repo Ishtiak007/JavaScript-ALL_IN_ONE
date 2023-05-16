@@ -1,0 +1,11 @@
+MouseEvent - <html>,  <head>,  <meta>,  <title>,  <br>,  <style>,  <script>,  <iframe>,  <param>,  <base>,  <bdo>
+
+
+1. oneclick
+2. onenlclick
+3. onmousedup
+4. onmousedup
+5. onmouseseenter
+6. onmouseleave
+7. onmousemove
+8. onmouseover
