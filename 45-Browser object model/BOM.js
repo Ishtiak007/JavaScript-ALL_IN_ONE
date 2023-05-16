@@ -17,6 +17,8 @@
 // pathname
 // console.log(location.pathname);
 
+console.log(location.window);
+
 
 var locationDiv = document.querySelector(".location-div");
 

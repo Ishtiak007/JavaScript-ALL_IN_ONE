@@ -1,0 +1,5 @@
+JS BOM :-
+
+
+JS Timeing events methods
+setTimeOut(), setInterval()

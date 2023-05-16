@@ -1,0 +1,3 @@
+JS BOM   :-
+
+popup boxes - alert, confirm, prompt
