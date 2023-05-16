@@ -1,0 +1,9 @@
+Drag event :
+
+1. ondragstart
+2. ondrag
+3. ondragend
+4. ondragenter
+5. ondragleave
+6. ondragover
+7. ondrop
