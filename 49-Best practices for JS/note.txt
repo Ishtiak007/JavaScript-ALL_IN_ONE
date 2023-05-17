@@ -1,0 +1,9 @@
+Best practices:-  
+
+-use camelcase for naming
+-variable declaration on top and intialize
+-avoid unnecessary variables
+-switch, case, default
+-object and array with const
+- == vs ==
+-access dom less
