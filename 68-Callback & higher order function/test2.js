@@ -8,7 +8,7 @@ squre(5);
 // y(5);
 
 function higherOrderFunction(num, callback){
-    callback(num)
+    callback(num);
 }
 
 higherOrderFunction(7, squre)
